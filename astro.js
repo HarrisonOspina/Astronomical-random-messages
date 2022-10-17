@@ -2,3 +2,4 @@
 let ome = "alalo";
 
 let gono = "apolonop"
+"om"
